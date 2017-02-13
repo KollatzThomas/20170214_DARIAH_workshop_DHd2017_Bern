@@ -13,6 +13,10 @@ body {
 	line-height: 40px;
 	font-size: 32px;
 	min-height: 740px;
+	background: url(dariah-logo-2.png);
+	background-size: 16% 16%;
+	background-position: 50% 96%;
+	background-repeat:no-repeat;
 	pointer-events: none;	/* Disables click events in body */
 }
 
